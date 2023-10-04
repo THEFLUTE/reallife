@@ -1,0 +1,3 @@
+default,http://example.com
+yoast,http://yoast.com
+test,http://yoast.com/?p=2
